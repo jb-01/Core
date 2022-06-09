@@ -2,7 +2,7 @@
 Various DL implementations for transfer learning
 
 
-- ### VGG19.py
+- ### VGG19
 VGG19 model w/o final prediction layer
 
 - ### ResNet52
