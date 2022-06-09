@@ -1,2 +1,2 @@
-Models/.idea
-#.gitignore
+.gitignore
+*.idea
